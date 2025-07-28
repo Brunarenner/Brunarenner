@@ -1,4 +1,11 @@
-### Olá eu Sou a Bruna Renner 👱‍♀️
+### Olá eu Sou a Bruna Renner 
+
+
+- Desenvolver e manter páginas web responsivas utilizando HTML, CSS e JavaScript.
+- Projetar e implementar layouts dinâmicos, garantindo a usabilidade e experiência do usuário.
+- Integrar funcionalidades front-end.
+- Realizar versionamento de código com Git e colaborar com a equipe por meio do GitHub.
+- Realizar testes e ajustes contínuos para otimização de performance e compatibilidade entre diferentes dispositivos e navegadores.
 
 ## Tecnologias que eu uso . 
 <div style="display: inline_block"><br/>
