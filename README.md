@@ -7,8 +7,7 @@
 - Realizar versionamento de código com Git e colaborar com a equipe por meio do GitHub.
 - Realizar testes e ajustes contínuos para otimização de performance e compatibilidade entre diferentes dispositivos e navegadores.
 
-  ## Conecte-se comigo
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/[text](https://www.linkedin.com/in/bruna-renner/))
+
 
 
 ## Tecnologias que eu uso . 
