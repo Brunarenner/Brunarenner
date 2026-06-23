@@ -60,4 +60,4 @@ Tenho facilidade para trabalhar em equipe, utilizando controle de versão e meto
 
 Fique à vontade para entrar em contato para conversar sobre tecnologia, oportunidades de colaboração ou novos projetos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-renner/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-renner-43aba0158//)
