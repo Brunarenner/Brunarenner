@@ -27,7 +27,7 @@ Desenvolvedora Front-end com foco na criação de **experiências web responsiva
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunarenner&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=brunarenner&show_icons=true&theme=light)
+[![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=brunarenner&show_icons=true&theme=light)]
 
 ---
 
